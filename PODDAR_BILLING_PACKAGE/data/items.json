@@ -1,0 +1,234 @@
+[
+  {
+    "name": "ARHAR DAAL",
+    "hsn": "713",
+    "unit": "KGS",
+    "rate": 97,
+    "gst": 0.05,
+    "category": "PULSE"
+  },
+  {
+    "name": "MASOOR DAAL",
+    "hsn": "713",
+    "unit": "KGS",
+    "rate": 87,
+    "gst": 0.05,
+    "category": "PULSE"
+  },
+  {
+    "name": "CHANA DAAL",
+    "hsn": "713",
+    "unit": "KGS",
+    "rate": 83,
+    "gst": 0.05,
+    "category": "PULSE"
+  },
+  {
+    "name": "MOONG DAAL",
+    "hsn": "713",
+    "unit": "KGS",
+    "rate": 110,
+    "gst": 0.05,
+    "category": "PULSE"
+  },
+  {
+    "name": "CHANA",
+    "hsn": "713",
+    "unit": "KGS",
+    "rate": 68,
+    "gst": 0.05,
+    "category": "PULSE"
+  },
+  {
+    "name": "SOYABEAN",
+    "hsn": "1201",
+    "unit": "KGS",
+    "rate": 115,
+    "gst": 0.05,
+    "category": "PULSE"
+  },
+  {
+    "name": "NAMAK",
+    "hsn": "2501",
+    "unit": "KGS",
+    "rate": 28,
+    "gst": 0.05,
+    "category": "SALT"
+  },
+  {
+    "name": "SARSO TEL",
+    "hsn": "1514",
+    "unit": "LTR",
+    "rate": 187,
+    "gst": 0.05,
+    "category": "EDIBLE OIL"
+  },
+  {
+    "name": "HALDI POWDER",
+    "hsn": "904",
+    "unit": "KGS",
+    "rate": 180,
+    "gst": 0.05,
+    "category": "SPICES"
+  },
+  {
+    "name": "MIRCH POWDER",
+    "hsn": "904",
+    "unit": "KGS",
+    "rate": 290,
+    "gst": 0.05,
+    "category": "SPICES"
+  },
+  {
+    "name": "DHANIYA POWDER",
+    "hsn": "904",
+    "unit": "KGS",
+    "rate": 264,
+    "gst": 0.05,
+    "category": "SPICES"
+  },
+  {
+    "name": "PUNCH PHORNA",
+    "hsn": "904",
+    "unit": "KGS",
+    "rate": 190,
+    "gst": 0.05,
+    "category": "SPICES"
+  },
+  {
+    "name": "JEERA",
+    "hsn": "904",
+    "unit": "KGS",
+    "rate": 325,
+    "gst": 0.05,
+    "category": "SPICES"
+  },
+  {
+    "name": "SUKHA MIRCH",
+    "hsn": "904",
+    "unit": "KGS",
+    "rate": 260,
+    "gst": 0.05,
+    "category": "SPICES"
+  },
+  {
+    "name": "TEJPATTA",
+    "hsn": "904",
+    "unit": "KGS",
+    "rate": 180,
+    "gst": 0.05,
+    "category": "SPICES"
+  },
+  {
+    "name": "GARAM MASALA",
+    "hsn": "910",
+    "unit": "PCS",
+    "rate": 5,
+    "gst": 0.05,
+    "category": "SPICES"
+  },
+  {
+    "name": "AALU",
+    "hsn": "701",
+    "unit": "KGS",
+    "rate": 12,
+    "gst": 0.05,
+    "category": "VEGETABLE"
+  },
+  {
+    "name": "PAYAJ (ONION)",
+    "hsn": "701",
+    "unit": "KGS",
+    "rate": 17,
+    "gst": 0.05,
+    "category": "VEGETABLE"
+  },
+  {
+    "name": "GOBHI",
+    "hsn": "701",
+    "unit": "KGS",
+    "rate": 30,
+    "gst": 0,
+    "category": "VEGETABLE"
+  },
+  {
+    "name": "KADDU",
+    "hsn": "701",
+    "unit": "KGS",
+    "rate": 40,
+    "gst": 0,
+    "category": "VEGETABLE"
+  },
+  {
+    "name": "HARA MIRCH",
+    "hsn": "701",
+    "unit": "KGS",
+    "rate": 100,
+    "gst": 0,
+    "category": "VEGETABLE"
+  },
+  {
+    "name": "PARWAL",
+    "hsn": "701",
+    "unit": "KGS",
+    "rate": 50,
+    "gst": 0,
+    "category": "VEGETABLE"
+  },
+  {
+    "name": "PALAK",
+    "hsn": "701",
+    "unit": "KGS",
+    "rate": 30,
+    "gst": 0,
+    "category": "VEGETABLE"
+  },
+  {
+    "name": "PATTA GOBHI",
+    "hsn": "701",
+    "unit": "KGS",
+    "rate": 30,
+    "gst": 0,
+    "category": "VEGETABLE"
+  },
+  {
+    "name": "SEASONAL FRUIT",
+    "hsn": "803",
+    "unit": "PCS",
+    "rate": 5,
+    "gst": 0,
+    "category": "SEASONAL FRUIT"
+  },
+  {
+    "name": "JLAWAN/ENDHAN",
+    "hsn": "4401",
+    "unit": "KGS",
+    "rate": 14,
+    "gst": 0.05,
+    "category": "WOODS"
+  },
+  {
+    "name": "FRUIT KELA",
+    "hsn": "803",
+    "unit": "PCS",
+    "rate": 6,
+    "gst": 0.05,
+    "category": "SEASONAL FRUIT"
+  },
+  {
+    "name": "RAW CHANA",
+    "hsn": "713",
+    "unit": "KGS",
+    "rate": 68,
+    "gst": 0.05,
+    "category": "PULSE"
+  },
+  {
+    "name": "EGGS",
+    "hsn": "407",
+    "unit": "PCS",
+    "rate": 5,
+    "gst": 0,
+    "category": "EGGS"
+  }
+]

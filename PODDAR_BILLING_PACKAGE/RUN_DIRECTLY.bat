@@ -1,0 +1,3 @@
+@echo off
+echo Starting PODDAR STORES Billing Software...
+python main.py

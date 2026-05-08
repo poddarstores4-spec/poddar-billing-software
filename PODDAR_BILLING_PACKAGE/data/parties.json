@@ -1,0 +1,234 @@
+[
+  {
+    "name": "PS PURA",
+    "address": "PURA",
+    "block": "SADAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS KOPINANDA",
+    "address": "KOPINANDA",
+    "block": "BENIPUR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS PANKIPATTI",
+    "address": "PANKIPATTI",
+    "block": "GHANSYAMPUR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS SHANKARLOHAR",
+    "address": "SHANKARLOHAR",
+    "block": "BAHERI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS RAJWARATOL",
+    "address": "RAJWARATOL",
+    "block": "MANIGACHHI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS SUSARI",
+    "address": "SUSARI",
+    "block": "BAHERI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS NAVTOL BITHAULI",
+    "address": "BITHAULI",
+    "block": "BAHERI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS KAMTOL",
+    "address": "KAMTOL",
+    "block": "JALE",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS VISHNUPUR",
+    "address": "VISHNUPUR",
+    "block": "HANUMAN NAGAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS KAKARGHATTI URDU",
+    "address": "KAKARGHATTI",
+    "block": "SADAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS MADHOPUR GOPALPUR",
+    "address": "MADHOPUR",
+    "block": "HANUMAN NAGAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "NPS BIJULI",
+    "address": "BIJULI",
+    "block": "SADAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "UMS MIRZAPUR BOYS",
+    "address": "MIRZAPUR",
+    "block": "ALINAGAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS KOPICHAKLA",
+    "address": "KOPICHAKLA",
+    "block": "BAHERI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS PINDARUCH KANYA",
+    "address": "PINDARUCH",
+    "block": "KEOWTI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS BITHAULI",
+    "address": "BITHAULI",
+    "block": "BAHERI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS GODYARI",
+    "address": "GODYARI",
+    "block": "MANIGACHHI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS CHAKKA",
+    "address": "CHAKKA",
+    "block": "SADAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS LAHO",
+    "address": "LAHO",
+    "block": "MAANIGACHHI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS GHOURDAUR",
+    "address": "GHOURDAUR",
+    "block": "MANIGACHHI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS MAHARANI NAVTOLIYA",
+    "address": "NAVTOLIYA",
+    "block": "SADAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS KAISTH KABAI",
+    "address": "KAISTH KABAI",
+    "block": "MANIGACHHI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS PANTA",
+    "address": "PANTA",
+    "block": "SADAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS KUMHAROLI HINDI",
+    "address": "KUMHAROLI",
+    "block": "JALE",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS MAJHIGAMA",
+    "address": "MAJHIGAMA",
+    "block": "KEOTI",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "B S GODAIPATTI",
+    "address": "GODAIPATTI",
+    "block": "HANUMAN NAGAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "PS NAYATOL KANSI",
+    "address": "NAYATOL KANSI",
+    "block": "SADAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS GODAIPATTI",
+    "address": "GODAIPATTI",
+    "block": "HANUMANNGAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  },
+  {
+    "name": "MS KHARTHUA",
+    "address": "KHARTHUA",
+    "block": "SADAR",
+    "district": "DARBHANGA",
+    "state": "BIHAR",
+    "state_code": "10"
+  }
+]

@@ -1,0 +1,508 @@
+Continue development from the latest working build EXACTLY where progress stopped.
+
+IMPORTANT:
+Do NOT rebuild completed modules again.
+
+Use existing:
+
+* database structure
+* UI theme
+* invoice system
+* PDF system
+* project architecture
+* folder structure
+* existing source files
+
+Your job is to:
+
+1. detect unfinished modules
+2. continue pending development
+3. fix remaining bugs
+4. improve stability
+5. keep same professional UI theme
+
+Build a complete PROFESSIONAL OFFLINE GST BILLING SOFTWARE similar to:
+
+* Tally
+* Vyapar
+* Marg
+
+Tech Stack:
+
+* Python
+* SQLite
+* ReportLab PDF
+* Professional Desktop UI
+
+This should feel like a REAL commercial billing application, not a demo project.
+
+1. PROFESSIONAL PDF INVOICE SYSTEM
+
+---
+
+PDF invoice must look EXACTLY like the Excel invoice design.
+
+Requirements:
+
+* Fixed A4 layout
+* ReportLab PDF only
+* NO screenshot printing
+* NO canvas capture
+* NO UI shifting
+* NO broken alignment
+* Strong table borders
+* Professional spacing
+* All fonts BOLD
+* Proper GST layout
+* Clean typography
+* Signature visible
+* Stamp visible
+* Logo visible
+* Footer properly aligned
+* Totals section highlighted
+* Empty rows visible
+* Print-shop quality output
+
+IMPORTANT:
+Keep current:
+
+* 30 fixed rows
+* signature system
+* stamp system
+* invoice layout
+
+DO NOT BREAK existing PDF structure.
+
+Improve only:
+
+* spacing
+* stability
+* alignment consistency
+* print quality
+
+---
+
+## PDF SAVE WORKFLOW
+
+When clicking:
+SAVE PDF
+
+Need:
+
+* Save dialog window
+* User selects folder manually
+* Default filename auto-generated
+
+Filename format:
+SCHOOL_MONTH_TOTAL.pdf
+
+Example:
+PS_KOPINANDA_APRIL_12000.pdf
+
+Rules:
+
+* remove special characters
+* replace spaces with "_"
+* auto duplicate prevention
+
+Example:
+PS_KOPINANDA_APRIL_12000(1).pdf
+
+REMOVE print button completely.
+
+Invoice must ALWAYS show:
+
+* fixed 30 product rows
+
+Requirements:
+
+* blank rows always visible
+* no auto-expand
+* no dynamic row height
+* no shifting layout
+
+Need TWO preset systems:
+
+---
+
+## A. PRODUCT GROUP PRESETS
+
+Example:
+School Combo A:
+
+* Rice
+* Dal
+* Salt
+* Oil
+
+When user clicks:
+LOAD PRESET
+
+Products auto-fill instantly.
+User only enters quantity.
+
+Need:
+
+* create preset
+* edit preset
+* delete preset
+* rename preset
+* load preset instantly
+
+---
+
+## B. SAVED BILL PRESETS
+
+Purpose:
+Save FULL invoice templates.
+
+Example:
+Create ₹5000 invoice
+Save preset:
+HOSTEL_5000
+
+Later:
+Opening preset auto-loads:
+
+* products
+* qty
+* rates
+* gst
+* categories
+* totals
+
+User only changes:
+
+* school name
+* month
+
+Software automatically:
+
+* generates new invoice number
+* updates month numbering
+* saves new invoice
+
+---
+
+## Preset Features Required
+
+Need:
+
+* create preset
+* rename preset
+* delete preset
+* duplicate preset
+* search preset
+* quick load
+* recent presets section
+
+Preset should NOT save:
+
+* invoice number
+* school name
+* date
+
+These must refresh automatically.
+
+Goal:
+1-click invoice workflow.
+
+Flow:
+
+* open preset
+* change school
+* select month
+* save PDF
+
+Done.
+
+Need ultra-fast billing experience.
+
+Need live target billing system.
+
+Example:
+TARGET: ₹5000
+CURRENT: ₹4210
+REMAINING: ₹790
+
+If exceeded:
+show EXTRA amount.
+
+Live updating required while editing invoice.
+
+Need intelligent searchable combobox system.
+
+Works in:
+
+* Product Search
+* School Search
+* Load Invoice Search
+* Preset Search
+
+Features:
+
+* first word matching
+* middle word matching
+* last word matching
+* 3-letter instant suggestion
+
+Example:
+typing:
+har
+
+shows:
+
+* ARHAR DAAL
+* HARA MIRCH
+
+Need very fast smart search.
+
+Also:
+remember recent searches and prioritize frequently used items.
+
+Current load invoice system is unstable.
+
+Fix:
+
+* open invoice properly
+* load all items correctly
+* load GST correctly
+* load totals correctly
+
+Add:
+
+* search by school
+* search by invoice number
+* search by month
+* autocomplete suggestions
+
+Fix category summary visibility.
+
+Need live totals for:
+
+* PULSE
+* SALT
+* SPICES
+* VEGETABLE
+* OIL
+* EGGS
+* WOODS
+* SEASONAL FRUIT
+  etc.
+
+Auto-calculate category totals from invoice items.
+
+Add keyboard shortcuts:
+
+CTRL+S → Save Invoice
+CTRL+N → New Invoice
+CTRL+P → Save PDF
+CTRL+L → Load Invoice
+CTRL+F → Search Invoice
+DELETE → Delete Row
+
+---
+
+## LIVE SHORTCUT BAR
+
+Need permanent bottom shortcut bar visible in UI.
+
+Example:
+CTRL+S Save
+CTRL+N New
+CTRL+P PDF
+etc.
+
+Requirements:
+
+* professional dark theme
+* small icons if possible
+* fixed bottom position
+* responsive width
+
+IMPORTANT BUG:
+
+Currently:
+Clicking:
+
+* Items
+* Parties
+* Reports
+* Load Invoice
+* Presets
+* Shop Manager
+
+multiple times opens duplicate windows.
+
+FIX:
+Only ONE instance/window allowed.
+
+If already open:
+
+* bring existing window to front
+* focus existing window
+* DO NOT open duplicate
+
+Apply to:
+
+* popup windows
+* manager windows
+* editor windows
+
+Need professional window management.
+
+Need complete multi-shop support.
+
+Each shop must have:
+
+* separate GST
+* separate logo
+* separate signature
+* separate invoice design
+* separate invoice numbering
+* separate folders
+* separate products
+* separate presets
+
+Need:
+SWITCH SHOP feature.
+
+Format:
+MAR/26/075
+
+Rules:
+
+* each shop separate numbering
+* month-wise numbering
+* new shops start from 075
+
+Examples:
+Shop A:
+MAR/26/075
+
+Shop B:
+MAR/26/075
+
+Auto-update when month changes.
+
+Need:
+A. Shop-wise product database
+B. MASTER PRODUCT DATABASE
+
+Each shop:
+
+* own products
+* own categories
+
+MASTER DATABASE:
+
+* add products
+* import to shops
+* sync products
+
+Use SQLite.
+
+Store:
+
+* invoices
+* invoice items
+* products
+* presets
+* customers
+* categories
+* shops
+* reports
+* search history
+
+Need:
+
+* dark blue professional theme
+* bigger buttons
+* better spacing
+* stable alignment
+* smoother UI
+* clean fonts
+* fast rendering
+
+Fix:
+
+* overlapping windows
+* popup layering issues
+* redraw lag
+* scroll lag
+* table lag
+
+Need:
+
+* stable table rendering
+* professional dashboard
+* smoother navigation
+
+Invoice table should support:
+
+* keyboard navigation
+* enter-to-next-row
+* arrow key movement
+* auto focus quantity field
+* row highlight on selection
+
+Automatically calculate:
+
+* CGST
+* SGST
+* IGST
+
+Based on GST%.
+
+Every saved invoice automatically creates backup.
+
+Folder structure:
+Backups/
+Shop_Name/
+Month/
+PDFs/
+Database/
+
+Need sidebar showing:
+
+* last 10 invoices
+* quick open
+* quick PDF
+
+Bottom status bar should show:
+
+* Current Shop
+* Invoice Number
+* Current Month
+* Current Total
+* Item Count
+* Database Status
+
+Add:
+
+* Export Excel
+* Export PDF
+* Monthly Report Export
+
+Code should be modular and scalable for future:
+
+* barcode support
+* online sync
+* mobile app
+* thermal printer
+* WhatsApp invoice
+* QR payment
+* cloud sync
+
+At end:
+
+* provide UPDATED FILES ONLY
+* mention completed features
+* mention fixed bugs
+* mention remaining pending tasks separately
+
+Continue EXACTLY from latest progress state.
+
+DO NOT restart project from scratch.
+DO NOT redesign completed systems unnecessarily.
+Keep existing UI theme and architecture stable.

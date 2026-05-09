@@ -1,0 +1,53 @@
+PODDAR STORES BILLING SOFTWARE
+
+====================================
+VERSION 0.1
+====================================
+
+INITIAL BUILD:
+✔ Basic invoice UI created
+✔ SQLite database connected
+✔ Product table added
+✔ GST calculation added
+✔ PDF export system added
+
+KNOWN ISSUES:
+- duplicate popup windows
+- PDF alignment issue
+- invoice loading unstable
+
+====================================
+VERSION 0.2
+====================================
+
+NEW FEATURES:
+✔ Category summary panel
+✔ Target billing counter
+✔ Signature support
+✔ Stamp support
+
+BUG FIXES:
+✔ GST total mismatch fixed
+✔ Product row alignment improved
+
+PENDING:
+- smart autocomplete
+- preset system
+- multi-shop support
+
+====================================
+VERSION 0.3
+====================================
+
+NEW FEATURES:
+✔ Recent invoice panel
+✔ Better PDF naming
+✔ Shortcut bar added
+
+BUG FIXES:
+✔ Save PDF dialog fixed
+✔ Footer alignment improved
+
+CURRENT ISSUES:
+- duplicate windows
+- load invoice bug
